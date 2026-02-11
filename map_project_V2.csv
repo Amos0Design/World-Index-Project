@@ -1,0 +1,204 @@
+country_name,iso_code,wikipedia_slug,description_of_system,v-dem,economist_dem_index,GSoD,FSI,FITW,UvF,govt_type
+Afghanistan,AFG,Politics_of_Afghanistan,Unitary Islamic theocracy ruled by an emir and an interim government.,0.02,0.25,0,103.9,6,1,5
+Albania,ALB,Politics_of_Albania,Unitary parliamentary constitutional republic where the Prime Minister is the head of government.,0.4,6.2,0.601,55.9,68,1,2
+Algeria,DZA,Politics_of_Algeria,Unitary semi-presidential republic where the President shares executive power with a Prime Minister.,0.12,3.55,0.374,68.6,31,1,4
+Andorra,AND,Politics_of_Andorra,Unitary parliamentary constitutional diarchy with the Bishop of Urgell and President of France serving as co-heads of state,,,,,93,1,1
+Angola,AGO,Politics_of_Angola,Unitary presidential republic where the President is both head of state and head of government.,0.16,4.05,0.364,85.6,28,1,3
+Antigua and Barbuda,ATG,Politics_of_Antigua_and_Barbuda,Unitary parliamentary constitutional monarchy with the British monarch as head of state.,,,,51.9,83,1,1
+Argentina,ARG,Politics_of_Argentina,Federal presidential republic with an executive President independent of the legislature.,0.55,6.51,0.748,44.2,85,2,3
+Armenia,ARM,Politics_of_Armenia,Unitary parliamentary republic with a ceremonial President and a powerful Prime Minister.,0.41,5.35,0.578,68.1,54,1,2
+Australia,AUS,Government_of_Australia,Federal parliamentary constitutional monarchy with the British monarch as head of state.,0.81,8.85,0.847,19.6,95,2,1
+Austria,AUT,Politics_of_Austria,Federal parliamentary republic with a Chancellor leading the government and a ceremonial President.,0.76,8.28,0.794,23.1,93,2,2
+Azerbaijan,AZE,Politics_of_Azerbaijan,Unitary semi-presidential republic with a strong presidency and a Prime Minister.,0.05,2.8,0.257,72.8,7,1,4
+Bahamas,BHS,Politics_of_the_Bahamas,Unitary parliamentary constitutional monarchy with the British monarch as head of state.,,,,48,90,1,1
+Bahrain,BHR,Politics_of_Bahrain,Unitary constitutional monarchy where the King retains significant executive authority.,0.05,2.45,0.28,64.2,12,1,6
+Bangladesh,BGD,Politics_of_Bangladesh,Unitary parliamentary republic where the Prime Minister is the head of government.,0.07,4.44,0,85.9,45,1,2
+Barbados,BRB,Politics_of_Barbados,Unitary parliamentary republic with a ceremonial President and an executive Prime Minister.,0.67,,0.701,44.7,94,1,2
+Belarus,BLR,Politics_of_Belarus,Unitary presidential republic often described as authoritarian with power concentrated in the President.,0.04,1.99,0.236,68.7,7,1,3
+Belgium,BEL,Politics_of_Belgium,Federal parliamentary constitutional monarchy with a complex system of regional and linguistic parliaments.,0.8,7.64,0.831,30.3,96,2,1
+Belize,BLZ,Politics_of_Belize,Unitary parliamentary constitutional monarchy with the British monarch as head of state.,,,,57,88,1,1
+Benin,BEN,Politics_of_Benin,Unitary presidential republic where the President leads the executive branch.,0.33,4.44,0.472,72.5,60,1,3
+Bhutan,BTN,Politics_of_Bhutan,Unitary parliamentary constitutional monarchy where the King is the head of state.,0.45,5.65,0.668,64.5,68,1,6
+Bolivia,BOL,Politics_of_Bolivia,Unitary presidential republic where the President is head of state and government.,0.31,4.26,0.566,69.4,65,1,3
+Bosnia and Herzegovina,BIH,Politics_of_Bosnia_and_Herzegovina,Federal parliamentary constitutional republic with an ethnically mandated three-member presidency.,0.34,5.06,0.5,71,52,2,2
+Botswana,BWA,Politics_of_Botswana,Unitary parliamentary republic where the President is elected by the parliament.,0.48,7.63,0.639,53.6,75,1,2
+Brazil,BRA,Federal_government_of_Brazil,Federal presidential republic where the President leads the executive branch.,0.71,6.49,0.733,70.3,72,2,3
+Brunei Darussalam,BRN,Politics_of_Brunei,Unitary absolute monarchy where the Sultan holds all legislative and executive power.,,,,53.9,27,1,7
+Bulgaria,BGR,Politics_of_Bulgaria,Unitary parliamentary republic where the Prime Minister leads the government.,0.51,6.34,0.652,49.4,77,1,2
+Burkina Faso,BFA,Politics_of_Burkina_Faso,Unitary semi-presidential republic currently under a military junta transition.,0.13,2.55,0,94.2,25,1,4
+Burundi,BDI,Politics_of_Burundi,Unitary presidential republic where the President holds executive power.,0.07,2.13,0.311,92.6,15,1,3
+Cabo Verde,CPV,Politics_of_Cape_Verde,Unitary semi-presidential republic with a President and a Prime Minister.,0.65,7.58,0.759,57.2,92,1,4
+Cambodia,KHM,Politics_of_Cambodia,Unitary parliamentary constitutional monarchy where the King is a figurehead.,0.06,2.94,0.267,78.6,23,1,1
+Cameroon,CMR,Politics_of_Cameroon,Unitary presidential republic with a strong presidency and a Prime Minister.,0.14,2.56,0.337,94.3,15,1,3
+Canada,CAN,Government_of_Canada,Federal parliamentary constitutional monarchy with the British monarch as head of state.,0.74,8.69,0.814,18.6,97,2,1
+Central African Republic,CAF,Politics_of_the_Central_African_Republic,Unitary semi-presidential republic where the President shares power with a Prime Minister.,0.1,1.18,0.322,103.9,5,1,4
+Chad,TCD,Politics_of_Chad,Unitary presidential republic currently undergoing a political transition.,0.05,1.89,0.266,102.7,15,1,3
+Chile,CHL,Politics_of_Chile,Unitary presidential republic where the President is both head of state and government.,0.79,7.83,0.875,41.1,95,1,3
+China,CHN,Politics_of_China,Unitary one-party socialist republic led by the Chinese Communist Party.,0.04,2.11,0,64.4,9,1,8
+Colombia,COL,Politics_of_Colombia,Unitary presidential republic where the President is the head of state and government.,0.56,6.35,0.678,75.6,70,1,3
+Comoros,COM,Politics_of_the_Comoros,Federal presidential republic where the presidency rotates among the main islands.,0.11,2.84,0.365,81.7,42,2,3
+Congo (Congo-Brazzaville),COG,Politics_of_the_Republic_of_the_Congo,Unitary semi-presidential republic where the President holds significant power.,0.12,2.79,0.302,90.2,17,2,4
+Costa Rica,CRI,Politics_of_Costa_Rica,Unitary presidential republic known for its stable democratic institutions.,0.8,8.29,0.876,39.4,18,1,3
+Côte d'Ivoire,CIV,Politics_of_Ivory_Coast,Unitary presidential republic with a strong executive presidency.,0.25,4.22,0.47,85.3,91,1,3
+Croatia,HRV,Politics_of_Croatia,Unitary parliamentary republic where the Prime Minister is the head of government.,0.62,6.5,0.763,45.9,49,1,2
+Cuba,CUB,Politics_of_Cuba,Unitary one-party socialist republic led by the Communist Party of Cuba.,0.06,2.58,0.25,59.1,82,1,8
+Cyprus,CYP,Politics_of_Cyprus,A unitary presidential republic where the President is both head of state and government.,0.65,7.38,0.769,54.1,10,1,3
+Czechia (Czech Republic),CZE,Politics_of_the_Czech_Republic,Unitary parliamentary republic where the government is led by the Prime Minister.,0.82,8.08,0.828,37.7,91,1,2
+Democratic Republic of the Congo,COD,Politics_of_the_Democratic_Republic_of_the_Congo,Unitary semi-presidential republic where the President shares power with a Prime Minister.,0.13,1.92,0.33,106.7,95,1,4
+Denmark,DNK,Politics_of_Denmark,Unitary parliamentary constitutional monarchy with the monarch as a ceremonial figurehead.,0.88,9.28,0.88,15.9,97,1,1
+Djibouti,DJI,Politics_of_Djibouti,Unitary presidential republic with a dominant-party system.,0.12,2.7,0.319,81.6,24,1,3
+Dominica,DMA,Politics_of_Dominica,Unitary parliamentary republic where the Prime Minister leads the government.,,,,,92,1,1
+Dominican Republic,DOM,Politics_of_the_Dominican_Republic,Unitary presidential republic where the President heads the executive branch.,0.45,6.62,0.627,60.2,68,1,3
+Ecuador,ECU,Politics_of_Ecuador,Unitary presidential republic where the President is head of state and government.,0.45,5.24,0.656,68,65,1,3
+Egypt,EGY,Politics_of_Egypt,Unitary semi-presidential republic with a strong presidency and a Prime Minister.,0.13,2.79,0.33,82.8,18,1,4
+El Salvador,SLV,Politics_of_El_Salvador,Unitary presidential republic where the President is the head of state and government.,0.09,4.61,0.438,68.7,47,1,3
+Equatorial Guinea,GNQ,Politics_of_Equatorial_Guinea,Unitary presidential republic with a dominant-party system.,0.05,1.92,0.26,83.7,5,1,3
+Eritrea,ERI,Politics_of_Eritrea,Unitary one-party presidential republic with no national elections.,0.01,1.97,0,92.1,3,1,8
+Estonia,EST,Politics_of_Estonia,Unitary parliamentary republic where the Prime Minister leads the government.,0.85,8.13,0.854,36.5,96,1,2
+Eswatini (fmr. Swaziland),SWZ,Politics_of_Eswatini,Unitary absolute monarchy where the King retains ultimate executive and legislative authority.,0.1,2.6,0.313,77.6,17,1,7
+Ethiopia,ETH,Politics_of_Ethiopia,Federal parliamentary republic where the Prime Minister holds executive power.,0.1,3.24,0.357,98.1,18,2,2
+Fiji,FJI,Politics_of_Fiji,Unitary parliamentary republic with a Prime Minister leading the government.,0.41,5.39,0.544,66.4,69,1,2
+Finland,FIN,Politics_of_Finland,Unitary parliamentary republic where the President directs foreign policy and the Prime Minister leads government.,0.8,9.3,0.86,14.3,100,1,2
+France,FRA,Government_of_France,Unitary semi-presidential republic with a strong President and a Prime Minister.,0.8,7.99,0.838,28.3,89,1,4
+Gabon,GAB,Politics_of_Gabon,Unitary presidential republic currently undergoing a transition following a coup.,0.16,2.18,0,70.2,21,1,3
+Gambia,GMB,Politics_of_the_Gambia,Unitary presidential republic where the President heads the executive branch.,0.51,4.47,0.573,76.1,50,1,3
+Georgia,GEO,Politics_of_Georgia_(country),Unitary parliamentary republic where the Prime Minister is the head of government.,0.33,4.7,0.471,69.3,55,1,2
+Germany,DEU,Politics_of_Germany,Federal parliamentary republic with a Chancellor leading the government and a ceremonial President.,0.79,8.73,0.892,24,95,2,2
+Ghana,GHA,Politics_of_Ghana,Unitary presidential republic where the President is both head of state and government.,0.57,6.24,0.696,60.8,80,1,3
+Greece,GRC,Politics_of_Greece,Unitary parliamentary republic where the Prime Minister leads the government.,0.58,8.07,0.783,54.7,85,1,2
+Grenada,GRD,Politics_of_Grenada,Unitary parliamentary constitutional monarchy with the British monarch as head of state.,,,,51.9,89,1,2
+Guatemala,GTM,Politics_of_Guatemala,Unitary presidential republic where the President is head of state and government.,0.47,4.55,0.594,74.9,48,1,3
+Guinea,GIN,Politics_of_Guinea,Unitary presidential republic currently under a military transition.,0.07,2.04,0,96.4,30,1,3
+Guinea-Bissau,GNB,Politics_of_Guinea-Bissau,Unitary semi-presidential republic where the President shares power with a Prime Minister.,0.15,2.03,0,88.4,41,1,4
+Guyana,GUY,Politics_of_Guyana,Unitary presidential republic where the President is elected by the legislature.,0.32,6.11,0.536,59.2,74,1,3
+Haiti,HTI,Politics_of_Haiti,Unitary semi-presidential republic currently led by a transitional council.,0.08,2.74,0,103.5,24,1,4
+Honduras,HND,Politics_of_Honduras,Unitary presidential republic where the President is the head of state and government.,0.38,4.98,0.525,78.1,48,1,3
+Hong Kong,HKG,Politics_of_Hong_Kong,Special administrative region of China with a Chief Executive and limited suffrage.,0.13,5.09,,,40,2,10
+Hungary,HUN,Politics_of_Hungary,Unitary parliamentary republic where the Prime Minister holds executive power.,0.32,6.51,0.553,46.2,65,1,2
+Iceland,ISL,Politics_of_Iceland,Unitary parliamentary republic where the Prime Minister leads the government.,0.76,9.38,0.762,15.2,95,1,2
+India,IND,Government_of_India,Federal parliamentary republic with a Prime Minister leading the government and a ceremonial President.,0.29,7.29,0.597,72.3,63,2,2
+Indonesia,IDN,Politics_of_Indonesia,Unitary presidential republic where the President is head of state and government.,0.33,6.44,0.6,63.7,56,1,3
+Iran,IRN,Politics_of_Iran,Unitary Islamic theocratic republic with a Supreme Leader and an elected President.,0.09,1.96,0.299,82.9,11,1,5
+Iraq,IRQ,Politics_of_Iraq,Federal parliamentary republic where executive power is held by the Prime Minister.,0.23,2.8,0.472,88.6,31,2,2
+Ireland,IRL,Government_of_Ireland,Unitary parliamentary republic with a Taoiseach (Prime Minister) and a ceremonial President.,0.83,9.19,0.789,18.6,97,1,2
+Israel,ISR,Politics_of_Israel,Unitary parliamentary republic where the Prime Minister leads the government.,0.62,7.8,0.753,51.5,73,1,2
+Italy,ITA,Politics_of_Italy,Unitary parliamentary republic with a Prime Minister leading the government and a ceremonial President.,0.7,7.58,0.855,41.1,89,1,2
+Jamaica,JAM,Politics_of_Jamaica,Unitary parliamentary constitutional monarchy with the British monarch as head of state.,0.68,6.74,0.748,59.3,80,1,1
+Japan,JPN,Government_of_Japan,Unitary parliamentary constitutional monarchy with the Emperor as a ceremonial symbol.,0.73,8.48,0.795,30.2,96,1,1
+Jordan,JOR,Politics_of_Jordan,Unitary constitutional monarchy where the King retains significant executive powers.,0.27,3.28,0.456,74.3,34,1,6
+Kazakhstan,KAZ,Government_of_Kazakhstan,Unitary presidential republic with a dominant-party system.,0.13,3.08,0.349,57.8,23,1,3
+Kenya,KEN,Politics_of_Kenya,Unitary presidential republic where the President is both head of state and government.,0.43,5.05,0.536,86.5,51,1,3
+Kiribati,KIR,Politics_of_Kiribati,Unitary parliamentary republic where the President is both head of state and government,,,,,89,1,2
+Kosovo,KOS,Politics_of_Kosovo,Unitary parliamentary republic where the Prime Minister leads the government.,0.47,,0.619,,60,1,2
+Kuwait,KWT,Politics_of_Kuwait,Unitary constitutional monarchy where the Emir appoints the Prime Minister.,0.27,2.78,0,49.3,31,1,6
+Kyrgyzstan,KGZ,Politics_of_Kyrgyzstan,Unitary presidential republic where the President holds executive power.,0.18,3.52,0.389,74.9,26,1,3
+Laos,LAO,Politics_of_Laos,Unitary one-party socialist republic led by the Lao People's Revolutionary Party.,0.1,1.71,0.268,73.8,13,1,8
+Latvia,LVA,Politics_of_Latvia,Unitary parliamentary republic where the Prime Minister leads the government.,0.76,7.66,0.747,41.4,89,1,2
+Lebanon,LBN,Politics_of_Lebanon,Unitary parliamentary confessionalist republic with power shared among religious groups.,0.21,3.56,0.441,92.7,39,1,2
+Lesotho,LSO,Politics_of_Lesotho,Unitary parliamentary constitutional monarchy where the King has no executive authority.,0.52,6.06,0.648,74.6,66,1,1
+Liberia,LBR,Politics_of_Liberia,Unitary presidential republic modeled on the United States system.,0.4,5.57,0.596,86.9,64,1,3
+Libya,LBY,Politics_of_Libya,Unitary provisional government currently divided between rival administrations.,0.11,2.31,0,96.5,10,1,10
+Liechtenstein,LIE,Politics_of_Liechtenstein,Unitary semi-constitutional monarchy with the Prince as head of state and Prime Minister as head of government,,,,,90,1,6
+Lithuania,LTU,Politics_of_Lithuania,Unitary semi-presidential republic where the President influences foreign policy.,0.73,7.59,0.803,37.4,89,1,4
+Luxembourg,LUX,Politics_of_Luxembourg,Unitary parliamentary constitutional monarchy led by a Grand Duke and a Prime Minister.,0.78,8.88,0.771,18.7,97,1,1
+Madagascar,MDG,Politics_of_Madagascar,Unitary semi-presidential republic with a President and a Prime Minister.,0.22,5.33,0.428,79.8,55,1,4
+Malawi,MWI,Politics_of_Malawi,Unitary presidential republic where the President is head of state and government.,0.48,5.85,0.633,80.5,65,1,3
+Malaysia,MYS,Government_of_Malaysia,Federal parliamentary constitutional monarchy with a rotating monarch.,0.36,7.11,0.526,53.1,53,2,1
+Maldives,MDV,Politics_of_the_Maldives,Unitary presidential republic where the President is head of state and government.,0.42,,0.532,60.3,43,1,3
+Mali,MLI,Politics_of_Mali,Unitary semi-presidential republic currently under a military junta.,0.15,2.4,0,97.3,24,1,9
+Malta,MLT,Politics_of_Malta,Unitary parliamentary republic where the Prime Minister leads the government.,0.64,7.93,0.726,31.1,87,1,2
+Marshall Islands,MHL,Politics_of_the_Marshall_Islands,Unitary presidential republic where president is both head of state and government,,,,,93,1,3
+Mauritania,MRT,Politics_of_Mauritania,Unitary semi-presidential republic with a strong presidency.,0.14,3.96,0.391,87,39,1,4
+Mauritius,MUS,Politics_of_Mauritius,Unitary parliamentary republic where the Prime Minister holds executive power.,0.37,8.23,0.671,37.8,86,1,2
+Mexico,MEX,Politics_of_Mexico,Federal presidential republic where the President is both head of state and government.,0.25,5.32,0.553,69,59,2,3
+Micronesia,FSM,Politics_of_the_Federated_States_of_Micronesia,Federal assembly-independent representative democracy where the President is both head of state and government,,,,66.9,92,2,3
+Moldova,MDA,Politics_of_Moldova,Unitary parliamentary republic where the Prime Minister leads the government.,0.52,6.04,0.609,64.7,60,1,2
+Monaco,MCO,Politics_of_Monaco,Unitary semi-constitutional monarchy where the Prince is head of state with some devolved powers in the legislature,,,,,82,1,6
+Mongolia,MNG,Politics_of_Mongolia,Unitary semi-presidential republic where the President and Prime Minister share power.,0.39,6.53,0.662,50.7,84,1,4
+Montenegro,MNE,Politics_of_Montenegro,Unitary parliamentary republic where the Prime Minister leads the government.,0.48,6.73,0.586,56.9,69,1,2
+Morocco,MAR,Politics_of_Morocco,Unitary parliamentary constitutional monarchy where the King retains vast executive power.,0.25,4.97,0.432,68.8,37,1,6
+Mozambique,MOZ,Politics_of_Mozambique,Unitary semi-presidential republic with a dominant-party system.,0.17,3.38,0.361,92.5,41,1,4
+Myanmar (formerly Burma),MMR,Politics_of_Myanmar,Unitary assembly-independent republic currently ruled by a military junta.,0.02,0.96,0,100,7,1,9
+Namibia,NAM,Politics_of_Namibia,Unitary semi-presidential republic where the President is head of state and government.,0.52,6.48,0.635,59.3,73,1,4
+Nauru,NRU,Politics_of_Nauru,Unitary parliamentary republic where the President is elected by the parliament.,,,,,75,1,2
+Nepal,NPL,Politics_of_Nepal,Federal parliamentary republic where the Prime Minister holds executive power.,0.52,4.6,0.644,78,62,2,2
+Netherlands,NLD,Politics_of_the_Netherlands,Unitary parliamentary constitutional monarchy with the monarch as a ceremonial figure.,0.76,9,0.855,19.5,97,1,1
+New Zealand,NZL,Politics_of_New_Zealand,Unitary parliamentary constitutional monarchy with the British monarch as head of state.,0.81,9.61,0.835,15.9,99,1,1
+Nicaragua,NIC,Politics_of_Nicaragua,Unitary presidential republic with a dominant-party system.,0.02,2.09,0.256,76.7,14,1,3
+Niger,NER,Politics_of_Niger,Unitary semi-presidential republic currently under a military junta.,0.18,2.26,0,95.2,30,1,4
+Nigeria,NGA,Politics_of_Nigeria,Federal presidential republic where the President is both head of state and government.,0.32,4.16,0.487,96.6,44,2,3
+Northern Cyprus,CYN,Politics_of_Northern_Cyprus,Unitary semi-presidentail republic where the president is both head of state and government,,,,,76,1,3
+North Korea,PRK,Politics_of_North_Korea,Unitary one-party socialist republic led by the Workers' Party of Korea.,0.01,1.08,0.187,84.9,3,1,8
+North Macedonia,MKD,Politics_of_North_Macedonia,Unitary parliamentary republic where the Prime Minister leads the government.,0.37,6.28,0.607,58.1,67,1,2
+Norway,NOR,Politics_of_Norway,Unitary parliamentary constitutional monarchy with the King as a ceremonial figurehead.,0.84,9.81,0.878,12.7,99,1,1
+Oman,OMN,Politics_of_Oman,Unitary absolute monarchy where the Sultan holds all legislative and executive power.,0.14,3.05,0.37,47.4,24,1,7
+Pakistan,PAK,Government_of_Pakistan,Federal parliamentary republic where the Prime Minister leads the government.,0.2,2.84,0.4,91.7,32,2,2
+Palau,PLW,Politics_of_Palau,Unitary presidential republic where president is both head of state and government,,,,,92,1,3
+Palestine State / West Bank,PSX,Palestinian_National_Authority,De facto one-party authority governed by Hamas within the Palestinian territories.,0.12,3.44,0,97.8,22,1,8
+Palestine State / Gaza,,,Semi-presidential system under the Palestinian Authority with limited self-rule.,0.05,,,,2,1,4
+Panama,PAN,Politics_of_Panama,Unitary presidential republic where the President is head of state and government.,0.58,6.84,0.757,47.7,83,1,3
+Papua New Guinea,PNG,Politics_of_Papua_New_Guinea,Unitary parliamentary constitutional monarchy with the British monarch as head of state.,0.38,5.97,0.493,78.8,61,1,1
+Paraguay,PRY,Politics_of_Paraguay,Unitary presidential republic where the President is both head of state and government.,0.39,5.92,0.552,61.5,63,1,3
+Peru,PER,Politics_of_Peru,Unitary presidential republic where the President is head of state and government.,0.49,5.69,0.665,72,67,1,3
+Philippines,PHL,Government_of_the_Philippines,Unitary presidential republic where the President is both head of state and government.,0.31,6.63,0.541,75.1,58,1,3
+Poland,POL,Politics_of_Poland,Unitary parliamentary republic where the President and Prime Minister share duties.,0.62,7.4,0.678,41.7,82,1,2
+Portugal,PRT,Politics_of_Portugal,Unitary semi-presidential republic where the President has significant reserve powers.,0.75,8.08,0.837,25.9,96,1,4
+Qatar,QAT,Politics_of_Qatar,Unitary semi-constitutional monarchy where the Emir holds executive and legislative power.,0.08,3.17,0,39.8,25,1,6
+Romania,ROU,Politics_of_Romania,Unitary semi-presidential republic where the President and Prime Minister share power.,0.44,5.99,0.647,51,82,1,4
+Russia,RUS,Government_of_Russia,Federal semi-presidential republic with a strong presidency and a Prime Minister.,0.06,2.03,0.283,81.6,12,2,4
+Rwanda,RWA,Politics_of_Rwanda,Unitary presidential republic with a dominant-party system.,0.09,3.34,0.332,81.8,21,1,3
+Saint Kitts and Nevis,KNA,Politics_of_Saint_Kitts_and_Nevis,Federal parliamentary constitutional monarchy with the British monarch as head of state.,,,,,89,2,1
+Saint Lucia,LCA,Politics_of_Saint_Lucia,Unitary parliamentary constitutional monarchy with the British monarch as head of state.,,,,,91,1,1
+Saint Vincent and the Grenadines,VCT,Politics_of_Saint_Vincent_and_the_Grenadines,Unitary parliamentary constitutional monarchy with the British monarch as head of state.,,,,,90,1,1
+Samoa,WSM,Politics_of_Samoa,Unitary parliamentary republic with an elected Ceremonial President and Prime Minister,,,,63.9,84,1,2
+San Marino,SMR,Politics_of_San_Marino,Unitary parliamentary republic with dual Captains Regent acting as heads of state,,,,,97,1,2
+Sao Tome and Principe,STP,Politics_of_Sao_Tome_and_Principe,Unitary semi-presidential republic with a President and a Prime Minister.,0.56,,,68.5,84,1,4
+Saudi Arabia,SAU,Politics_of_Saudi_Arabia,Unitary absolute monarchy where the King holds supreme power.,0.05,2.08,0,63.2,9,1,7
+Senegal,SEN,Politics_of_Senegal,Unitary presidential republic where the President heads the executive branch.,0.46,5.93,0.631,74.2,69,1,3
+Serbia,SRB,Government_of_Serbia,Unitary parliamentary republic where the Prime Minister leads the government.,0.22,6.26,0.424,67.8,56,1,2
+Seychelles,SYC,Politics_of_Seychelles,Unitary presidential republic where the President is head of state and government.,0.66,,,51,80,1,3
+Sierra Leone,SLE,Politics_of_Sierra_Leone,Unitary presidential republic where the President is both head of state and government.,0.35,4.32,0.465,82.6,59,1,3
+Singapore,SGP,Government_of_Singapore,Unitary parliamentary republic with a dominant-party system.,0.34,6.18,0.48,25.4,48,1,2
+Slovakia,SVK,Politics_of_Slovakia,Unitary parliamentary republic where the Prime Minister leads the government.,0.58,7.21,0.778,35.3,89,1,2
+Slovenia,SVN,Politics_of_Slovenia,Unitary parliamentary republic where the Prime Minister is the head of government.,0.62,7.82,0.816,26.1,96,1,2
+Solomon Islands,SLB,Politics_of_the_Solomon_Islands,Unitary parliamentary constitutional monarchy with the British monarch as head of state.,0.52,,0.575,77.6,75,1,1
+Somalia,SOM,Politics_of_Somalia,Federal parliamentary republic where the President appoints the Prime Minister.,0.13,,0,111.3,8,2,2
+Somaliland,SOL,Politics_of_Somaliland,De facto presidential republic with a multi-party system not internationally recognized.,0.27,,,,47,1,3
+South Africa,ZAF,Government_of_South_Africa,Unitary parliamentary republic where the President is elected by the parliament.,0.65,7.16,0.733,69.6,81,1,2
+South Korea,KOR,Government_of_South_Korea,Unitary presidential republic where the President is the head of state and government.,0.63,7.75,0.748,29.8,81,1,3
+South Sudan,SDS,Politics_of_South_Sudan,Federal presidential republic currently under a transitional unity government.,0.07,,0,109,1,2,10
+Spain,ESP,Government_of_Spain,Unitary parliamentary constitutional monarchy with the King as head of state.,0.74,8.13,0.813,44,90,1,1
+Sri Lanka,LKA,Politics_of_Sri_Lanka,Unitary semi-presidential republic where the President holds significant executive power.,0.49,6.19,0.655,88.2,58,1,4
+Sudan,SDN,Politics_of_Sudan,Federal provisional government currently under a military-civilian transition.,0.04,1.46,0,109.3,2,2,10
+Suriname,SUR,Politics_of_Suriname,Unitary parliamentary republic where the President is elected by the legislature.,0.64,6.79,0.674,58.8,80,1,2
+Sweden,SWE,Government_of_Sweden,Unitary parliamentary constitutional monarchy with the King as a ceremonial figurehead.,0.84,9.39,0.867,20.6,99,1,1
+Switzerland,CHE,Politics_of_Switzerland,Federal directorial republic where executive power is held by a seven-member council.,0.85,9.32,0.809,16.2,96,2,3
+Syria,SYR,Politics_of_Syria,Unitary presidential republic currently with a transition government.,0.05,1.32,0,108.1,5,1,3
+Taiwan,TWN,Politics_of_Taiwan,Unitary semi-presidential republic where the President and Premier share power.,0.7,8.78,0.825,,94,1,4
+Tajikistan,TJK,Politics_of_Tajikistan,Unitary presidential republic with a dominant-party system.,0.05,1.83,0.252,72.8,5,1,3
+Tanzania,TZA,Politics_of_Tanzania,Unitary presidential republic with a dominant-party system.,0.37,5.2,0.446,75.7,35,1,3
+Thailand,THA,Government_of_Thailand,Unitary parliamentary constitutional monarchy with a history of military influence.,0.29,6.27,0.415,66.2,34,1,1
+Timor-Leste,TLS,Politics_of_East_Timor,Unitary semi-presidential republic where the President shares power with a Prime Minister.,0.55,7.03,0.671,74.8,72,1,4
+Togo,TGO,Politics_of_Togo,Unitary presidential republic with a dominant-party system.,0.17,2.99,0.408,81.1,41,1,3
+Tonga,TON,Politics_of_Tonga,Unitary parliamentary constitutional monarchy where the King is the head of state and the Prime Minister is the head of government.,,,,,80,1,1
+Trinidad and Tobago,TTO,Politics_of_Trinidad_and_Tobago,Unitary parliamentary republic with a ceremonial President and executive Prime Minister.,0.63,7.09,0.737,53.5,82,1,2
+Tunisia,TUN,Politics_of_Tunisia,Unitary presidential republic with a strong presidency following recent constitutional changes.,0.26,4.71,0.405,67.2,44,1,3
+Turkey,TUR,Politics_of_Turkey,Unitary presidential republic where the President is both head of state and government.,0.12,4.26,0.444,84,33,1,3
+Turkmenistan,TKM,Politics_of_Turkmenistan,Unitary presidential republic with a dominant-party system and strong presidency.,0.03,1.66,0.219,62.2,1,1,3
+Tuvalu,TUV,Politics_of_Tuvalu,Unitary parliamentary constitutional monarchy with the British monarch as head of state.,,,,,93,1,1
+Uganda,UGA,Politics_of_Uganda,Unitary presidential republic with a dominant-party system.,0.2,4.49,0.374,91.1,34,1,3
+Ukraine,UKR,Politics_of_Ukraine,Unitary semi-presidential republic where the President and Prime Minister share power.,0.23,4.9,0.517,93.1,51,1,4
+United Arab Emirates,ARE,Politics_of_the_United_Arab_Emirates,Federal elective monarchy comprising seven emirates led by the Federal Supreme Council.,0.08,3.07,0,34.7,18,2,6
+United Kingdom,GBR,Government_of_the_United_Kingdom,Unitary parliamentary constitutional monarchy with the monarch as head of state.,0.75,8.34,0.831,40.8,92,1,1
+United States of America,USA,Federal_government_of_the_United_States,Federal presidential republic where the President is both head of state and government.,0.75,7.85,0.758,44.5,84,2,3
+Uruguay,URY,Politics_of_Uruguay,Unitary presidential republic where the President is both head of state and government.,0.77,8.67,0.814,33.7,96,1,3
+Uzbekistan,UZB,Politics_of_Uzbekistan,Unitary presidential republic where the President holds executive power.,0.08,2.1,0.286,64.8,12,1,3
+Vanuatu,VUT,Politics_of_Vanuatu,Unitary parliamentary republic where the Prime Minister leads the government.,0.69,,0.718,,82,1,2
+Vatican City (Holy See),VAT,Politics_of_Vatican_City,Unitary theocratic absolute elective monarcy where the Pope retains all governing powers,,,,,,1,7
+Venezuela,VEN,Politics_of_Venezuela,Federal presidential republic with a strong executive presidency.,0.05,2.25,0.226,89,13,2,3
+Vietnam,VNM,Politics_of_Vietnam,Unitary one-party socialist republic led by the Communist Party of Vietnam.,0.12,2.62,0.308,56.2,20,1,8
+Western Sahara,SAH,Politics_of_Western_Sahara,Unitary one-party government with limited international recognition.,,,,,4,1,8
+Yemen,YEM,Politics_of_Yemen,Unitary provisional government currently divided by civil conflict.,0.05,1.95,0,106.6,,1,10
+Zambia,ZMB,Politics_of_Zambia,Unitary presidential republic where the President is both head of state and government.,0.39,5.73,0.555,81.2,10,1,3
+Zanzibar,EAZ,Zanzibar,Semi-autonomous region of Tanzania with its own President and House of Representatives.,0.26,,,,53,1,3
+Zimbabwe,ZWE,Politics_of_Zimbabwe,Unitary presidential republic where the President is head of state and government.,0.16,2.98,0.385,95.7,26,1,3
