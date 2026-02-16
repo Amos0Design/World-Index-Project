@@ -1,0 +1,3020 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Budapest",
+        "state": "HUN"
+      },
+      "geometry": {
+        "coordinates": [
+          19.045632,
+          47.507091
+        ],
+        "type": "Point"
+      },
+      "id": "00e049eb6317ad56629c2cd8d9224095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Honiara",
+        "state": "SLB"
+      },
+      "geometry": {
+        "coordinates": [
+          159.955965,
+          -9.433655
+        ],
+        "type": "Point"
+      },
+      "id": "01a7709c03c74b785199e826881ef92a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Madrid",
+        "state": "ESP"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.696589,
+          40.416414
+        ],
+        "type": "Point"
+      },
+      "id": "01ad9e7f214a103836c21d2d6c151e40"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kinshasa",
+        "state": "COD"
+      },
+      "geometry": {
+        "coordinates": [
+          15.284168,
+          -4.303266
+        ],
+        "type": "Point"
+      },
+      "id": "04225989cedd29785bbb548892091d0f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pristina",
+        "state": "KOS"
+      },
+      "geometry": {
+        "coordinates": [
+          21.164412,
+          42.664741
+        ],
+        "type": "Point"
+      },
+      "id": "04f19450a4a0d1dca535b30260ecb317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "São Tomé ",
+        "state": "STP"
+      },
+      "geometry": {
+        "coordinates": [
+          6.740558,
+          0.331461
+        ],
+        "type": "Point"
+      },
+      "id": "068bf4fabd2614de1976733afb728748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "St. John's ",
+        "state": "ATG"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.833212,
+          17.118457
+        ],
+        "type": "Point"
+      },
+      "id": "085f4cd4156e0b9d63457405efdb15ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "New Delhi ",
+        "state": "IND"
+      },
+      "geometry": {
+        "coordinates": [
+          77.209996,
+          28.617157
+        ],
+        "type": "Point"
+      },
+      "id": "0921da364b352133a6ba78a5819f8e4e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Montevideo",
+        "state": "URY"
+      },
+      "geometry": {
+        "coordinates": [
+          -56.187205,
+          -34.891182
+        ],
+        "type": "Point"
+      },
+      "id": "096148266579f220ef0d5462bdce2682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dublin",
+        "state": "IRL"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.254183,
+          53.340159
+        ],
+        "type": "Point"
+      },
+      "id": "0b56fc274ee88db545abe1ab29d0f724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ljublljana",
+        "state": "SVN"
+      },
+      "geometry": {
+        "coordinates": [
+          14.501199,
+          46.051483
+        ],
+        "type": "Point"
+      },
+      "id": "0d2c25d59470e8a11fc468b3063d1a84"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Oslo",
+        "state": "NOR"
+      },
+      "geometry": {
+        "coordinates": [
+          10.740076,
+          59.913006
+        ],
+        "type": "Point"
+      },
+      "id": "0f3b24e391d306f5fba47e6a0fe5918c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Zagreb",
+        "state": "HRV"
+      },
+      "geometry": {
+        "coordinates": [
+          15.974259,
+          45.816222
+        ],
+        "type": "Point"
+      },
+      "id": "0f4dce4641a2a95e766c0b7c3211c370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nairobi",
+        "state": "KEN"
+      },
+      "geometry": {
+        "coordinates": [
+          36.820074,
+          -1.290035
+        ],
+        "type": "Point"
+      },
+      "id": "0f627973f97dbeab3597ae25524d2532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Yerevan",
+        "state": "ARM"
+      },
+      "geometry": {
+        "coordinates": [
+          44.50912,
+          40.189803
+        ],
+        "type": "Point"
+      },
+      "id": "144552fdf9055dd6de2f1f684b168a6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Manama",
+        "state": "BHR"
+      },
+      "geometry": {
+        "coordinates": [
+          50.592668,
+          26.218554
+        ],
+        "type": "Point"
+      },
+      "id": "14949f6865cb7f6a05a1fedde53ca5db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Calliaqua",
+        "state": "VCT"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.194575,
+          13.132752
+        ],
+        "type": "Point"
+      },
+      "id": "16cfe733ecfa1d94d50136282bf08c76"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Prague",
+        "state": "CZE"
+      },
+      "geometry": {
+        "coordinates": [
+          14.404072,
+          50.089431
+        ],
+        "type": "Point"
+      },
+      "id": "173450288b1de65fe855ec14639aea43"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "state": "SYC"
+      },
+      "geometry": {
+        "coordinates": [
+          55.460452,
+          -4.608045
+        ],
+        "type": "Point"
+      },
+      "id": "189bfabeaf86890395df665ba0febcd6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dhaka",
+        "state": "BGD"
+      },
+      "geometry": {
+        "coordinates": [
+          90.378545,
+          23.762514
+        ],
+        "type": "Point"
+      },
+      "id": "1a0a3b269665fc3628e8b71fc88fc1d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bridgetown",
+        "state": "BRB"
+      },
+      "geometry": {
+        "coordinates": [
+          -59.613938,
+          13.097384
+        ],
+        "type": "Point"
+      },
+      "id": "1a372db715ab88f62a07f137bbc70baf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Port Moresby",
+        "state": "PNG"
+      },
+      "geometry": {
+        "coordinates": [
+          147.191985,
+          -9.428053
+        ],
+        "type": "Point"
+      },
+      "id": "1b43f3efd99c3432780a52dd04d84ef1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Taipei",
+        "state": "TWN"
+      },
+      "geometry": {
+        "coordinates": [
+          121.520821,
+          25.043687
+        ],
+        "type": "Point"
+      },
+      "id": "1ba14f7a57a1c982e2243fae08d1eeef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dashunbe",
+        "state": "TJK"
+      },
+      "geometry": {
+        "coordinates": [
+          68.788084,
+          38.576222
+        ],
+        "type": "Point"
+      },
+      "id": "1be7544810f0c4cf1d1b52c1010d8810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ulaanbaatar",
+        "state": "MNG"
+      },
+      "geometry": {
+        "coordinates": [
+          106.917289,
+          47.920619
+        ],
+        "type": "Point"
+      },
+      "id": "1db162553288b688bf8c17b91bb685b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Roseau",
+        "state": "DMA"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.385128,
+          15.295147
+        ],
+        "type": "Point"
+      },
+      "id": "1e23f52ae8030ab0dbb21116a61fd873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Beirut",
+        "state": "LBN"
+      },
+      "geometry": {
+        "coordinates": [
+          35.503897,
+          33.896936
+        ],
+        "type": "Point"
+      },
+      "id": "2133e063143847fbfe0cc8417ee03146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bern",
+        "state": "CHE"
+      },
+      "geometry": {
+        "coordinates": [
+          7.444223,
+          46.946506
+        ],
+        "type": "Point"
+      },
+      "id": "216c986152bcecd99e04b17e7c914303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tallin",
+        "state": "EST"
+      },
+      "geometry": {
+        "coordinates": [
+          24.738033,
+          59.435592
+        ],
+        "type": "Point"
+      },
+      "id": "248483fa43fd2e97d0f4f1e2efd07aa1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hong Kong",
+        "state": "HKG"
+      },
+      "geometry": {
+        "coordinates": [
+          114.166227,
+          22.281533
+        ],
+        "type": "Point"
+      },
+      "id": "252c19ff32b3f446499b38f9e9d887b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sarajevo",
+        "state": "BIH"
+      },
+      "geometry": {
+        "coordinates": [
+          18.405682,
+          43.854546
+        ],
+        "type": "Point"
+      },
+      "id": "25419157287a625b66af7281b7e94576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "St. George's",
+        "state": "GRD"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.745378,
+          12.053868
+        ],
+        "type": "Point"
+      },
+      "id": "26836d34c64a731563a7c12961f219b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Muscat",
+        "state": "OMN"
+      },
+      "geometry": {
+        "coordinates": [
+          58.604822,
+          23.568607
+        ],
+        "type": "Point"
+      },
+      "id": "286ee0d5be99707150aa4c275f43a2f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hargeisa",
+        "state": "SOL"
+      },
+      "geometry": {
+        "coordinates": [
+          44.053471,
+          9.560719
+        ],
+        "type": "Point"
+      },
+      "id": "298509eec053adfcad63cddc718f3752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dakar",
+        "state": "SEN"
+      },
+      "geometry": {
+        "coordinates": [
+          -17.438429,
+          14.662599
+        ],
+        "type": "Point"
+      },
+      "id": "2d76ee431374211172984f78876a9776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Majuro",
+        "state": "MHL"
+      },
+      "geometry": {
+        "coordinates": [
+          171.380467,
+          7.089627
+        ],
+        "type": "Point"
+      },
+      "id": "2e9b4b7a5755f1fc5c78fb49e9812d41"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Port Vila",
+        "state": "VUT"
+      },
+      "geometry": {
+        "coordinates": [
+          168.315266,
+          -17.745422
+        ],
+        "type": "Point"
+      },
+      "id": "2eca24d9f5f81f07e6edabb8420cb6f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lomé",
+        "state": "TGO"
+      },
+      "geometry": {
+        "coordinates": [
+          1.217566,
+          6.130536
+        ],
+        "type": "Point"
+      },
+      "id": "2efd74e8899b36ef4c1f4da7b96f0134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Valparaíso",
+        "state": "CHL"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.605417,
+          -33.047679
+        ],
+        "type": "Point"
+      },
+      "id": "305ac51302e49db1261c1dc44fde5850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "SOM",
+        "city": "Mogadishu"
+      },
+      "geometry": {
+        "coordinates": [
+          45.336306,
+          2.040199
+        ],
+        "type": "Point"
+      },
+      "id": "308490663567c4c4581f2a73096a9c4e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bucharest",
+        "state": "ROU"
+      },
+      "geometry": {
+        "coordinates": [
+          26.087395,
+          44.427492
+        ],
+        "type": "Point"
+      },
+      "id": "3160b30e34b900220f7bd92ee9b3c0c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "South Tarawa",
+        "state": "KIR"
+      },
+      "geometry": {
+        "coordinates": [
+          173.038826,
+          1.350315
+        ],
+        "type": "Point"
+      },
+      "id": "328b413bca9cd5601d3abe8a0bddc293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ashgabat",
+        "state": "TKM"
+      },
+      "geometry": {
+        "coordinates": [
+          58.379515,
+          37.930656
+        ],
+        "type": "Point"
+      },
+      "id": "357217c7394b3ac5a9dee0a64d95e063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vilnius",
+        "state": "LTU"
+      },
+      "geometry": {
+        "coordinates": [
+          25.261817,
+          54.691096
+        ],
+        "type": "Point"
+      },
+      "id": "35e7e379b40b11473da48590e70b5d06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Caracas",
+        "state": "VEN"
+      },
+      "geometry": {
+        "coordinates": [
+          -66.915851,
+          10.505151
+        ],
+        "type": "Point"
+      },
+      "id": "389b23dca77d638d2b73c8c6750bf12b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dili",
+        "state": "TLS"
+      },
+      "geometry": {
+        "coordinates": [
+          125.578745,
+          -8.554685
+        ],
+        "type": "Point"
+      },
+      "id": "3e3c2f64ac7031e6ac873dc1ea3bf3c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Manila",
+        "state": "PHL"
+      },
+      "geometry": {
+        "coordinates": [
+          121.094372,
+          14.693374
+        ],
+        "type": "Point"
+      },
+      "id": "41aaa18bc4a634e6a500b273b07533b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vienna",
+        "state": "AUT"
+      },
+      "geometry": {
+        "coordinates": [
+          16.358428,
+          48.20808
+        ],
+        "type": "Point"
+      },
+      "id": "42dc9771ae31f3733302e2989ef78f62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Funafuti",
+        "state": "TUV"
+      },
+      "geometry": {
+        "coordinates": [
+          179.194474,
+          -8.52434
+        ],
+        "type": "Point"
+      },
+      "id": "4345b9c9257e384e178c70b35cbbf415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dodoma",
+        "state": "TZA"
+      },
+      "geometry": {
+        "coordinates": [
+          35.756449,
+          -6.180593
+        ],
+        "type": "Point"
+      },
+      "id": "43510614a675596c40009691afeb884c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Suva",
+        "state": "FJI"
+      },
+      "geometry": {
+        "coordinates": [
+          178.42456,
+          -18.145837
+        ],
+        "type": "Point"
+      },
+      "id": "44a0dfec6d3156388b6b225541869a29"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Athens",
+        "state": "GRC"
+      },
+      "geometry": {
+        "coordinates": [
+          23.736999,
+          37.975282
+        ],
+        "type": "Point"
+      },
+      "id": "458f2e23a7404b4c24341ab0832c5d1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Naypyidaw",
+        "state": "MMR"
+      },
+      "geometry": {
+        "coordinates": [
+          96.105632,
+          19.776011
+        ],
+        "type": "Point"
+      },
+      "id": "46bf264cb0513ef75130a279af69e54f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cairo",
+        "state": "EGY"
+      },
+      "geometry": {
+        "coordinates": [
+          31.236852,
+          30.040538
+        ],
+        "type": "Point"
+      },
+      "id": "4866fc4bda8b8c5655cd9630198c7688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kuala Lumpur",
+        "state": "MYS"
+      },
+      "geometry": {
+        "coordinates": [
+          101.679086,
+          3.150331
+        ],
+        "type": "Point"
+      },
+      "id": "4a9fe5fc625cfdb1e331caacd5a818d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Palikir",
+        "state": "FSM"
+      },
+      "geometry": {
+        "coordinates": [
+          158.161993,
+          6.925531
+        ],
+        "type": "Point"
+      },
+      "id": "4dda1f08cce042b68da1dc2569cd2238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kyiv",
+        "state": "UKR"
+      },
+      "geometry": {
+        "coordinates": [
+          30.536862,
+          50.447406
+        ],
+        "type": "Point"
+      },
+      "id": "4eb338703424a4189aead8e1b82d54e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nicosia",
+        "state": "CYP"
+      },
+      "geometry": {
+        "coordinates": [
+          33.354389,
+          35.172222
+        ],
+        "type": "Point"
+      },
+      "id": "4f7b7328b78df895b6a6436fff470d6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Brussels",
+        "state": "BEL"
+      },
+      "geometry": {
+        "coordinates": [
+          4.364891,
+          50.846927
+        ],
+        "type": "Point"
+      },
+      "id": "4ff10b8de63fbf158fbd5c8d285fe967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "SDN",
+        "city": "Khartoum"
+      },
+      "geometry": {
+        "coordinates": [
+          32.487472,
+          15.617755
+        ],
+        "type": "Point"
+      },
+      "id": "5060c1221f259b0040213f7bba971428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Thimphu",
+        "state": "BTN"
+      },
+      "geometry": {
+        "coordinates": [
+          89.638272,
+          27.489767
+        ],
+        "type": "Point"
+      },
+      "id": "50cd9e869d4679c79b2b74a101b913c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Apia",
+        "state": "WSM"
+      },
+      "geometry": {
+        "coordinates": [
+          -171.778589,
+          -13.819348
+        ],
+        "type": "Point"
+      },
+      "id": "5113cdd8883a4176f029156a8472a1bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lisbon",
+        "state": "PRT"
+      },
+      "geometry": {
+        "coordinates": [
+          -9.153857,
+          38.712595
+        ],
+        "type": "Point"
+      },
+      "id": "5aeead0c94a6fc8ef2499835042a8935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Singapore",
+        "state": "SGP"
+      },
+      "geometry": {
+        "coordinates": [
+          103.850375,
+          1.28919
+        ],
+        "type": "Point"
+      },
+      "id": "5cbb3bab11bea9cd59b66504813594b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "La Paz",
+        "state": "BOL"
+      },
+      "geometry": {
+        "coordinates": [
+          -68.132687,
+          -16.496124
+        ],
+        "type": "Point"
+      },
+      "id": "5e8a3f8a7686eff825998e5d9df14fc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lusaka",
+        "state": "ZMB"
+      },
+      "geometry": {
+        "coordinates": [
+          28.309055,
+          -15.392285
+        ],
+        "type": "Point"
+      },
+      "id": "6123f910354ea973cdad0d0211b33775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tegucigalpa",
+        "state": "HND"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.204902,
+          14.103866
+        ],
+        "type": "Point"
+      },
+      "id": "645ba9a0d6ee424084808436ae532c44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kabul",
+        "state": "AFG"
+      },
+      "geometry": {
+        "coordinates": [
+          69.179142,
+          34.523664
+        ],
+        "type": "Point"
+      },
+      "id": "64b3d1ac89ebf59fc63d646e54c4a432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Monrovia",
+        "state": "LBR"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.795702,
+          6.301853
+        ],
+        "type": "Point"
+      },
+      "id": "6856a6386ae685db55ad5e9b232d0685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Baku",
+        "state": "AZE"
+      },
+      "geometry": {
+        "coordinates": [
+          49.825298,
+          40.358021
+        ],
+        "type": "Point"
+      },
+      "id": "696d5bcd7dfcdb95a86d6d961b923cd9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sofia",
+        "state": "BGR"
+      },
+      "geometry": {
+        "coordinates": [
+          23.324859,
+          42.697344
+        ],
+        "type": "Point"
+      },
+      "id": "6bdcd46aa994c1c242017e4181a558d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Belmopan",
+        "state": "BLZ"
+      },
+      "geometry": {
+        "coordinates": [
+          -88.773082,
+          17.251217
+        ],
+        "type": "Point"
+      },
+      "id": "6dbe6d86fbcb53410cca0c8266389a66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Riga",
+        "state": "LVA"
+      },
+      "geometry": {
+        "coordinates": [
+          24.104638,
+          56.951205
+        ],
+        "type": "Point"
+      },
+      "id": "6e2199b8de483165b61928d856424188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Astana",
+        "state": "KAZ"
+      },
+      "geometry": {
+        "coordinates": [
+          71.440807,
+          51.125518
+        ],
+        "type": "Point"
+      },
+      "id": "701f2313d21409339361266293a35ebc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bogotá",
+        "state": "COL"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.076537,
+          4.597262
+        ],
+        "type": "Point"
+      },
+      "id": "70d9fb8acde6951e3fb6502567075bcb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Berlin",
+        "state": "DEU"
+      },
+      "geometry": {
+        "coordinates": [
+          13.376109,
+          52.518597
+        ],
+        "type": "Point"
+      },
+      "id": "713517908816fc52cacce61086ef4752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nassau",
+        "state": "BHS"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.340501,
+          25.077538
+        ],
+        "type": "Point"
+      },
+      "id": "721466ceaebdbeef7b235c2969a3c37e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Paris",
+        "state": "FRA"
+      },
+      "geometry": {
+        "coordinates": [
+          2.317881,
+          48.861826
+        ],
+        "type": "Point"
+      },
+      "id": "7232eea83738dae19d501c6f15a2be2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Abidjan",
+        "state": "CIV"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.020126,
+          5.329086
+        ],
+        "type": "Point"
+      },
+      "id": "72d845ed944aef2680ea4eee9b4cc15c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nouakchott",
+        "state": "MRT"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.972436,
+          18.086292
+        ],
+        "type": "Point"
+      },
+      "id": "747084de22915c3f528126100322da54"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nicosia",
+        "state": "CYN"
+      },
+      "geometry": {
+        "coordinates": [
+          33.330941,
+          35.191208
+        ],
+        "type": "Point"
+      },
+      "id": "7556469da07602b9cd8286c753ad2ac7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Libreville",
+        "state": "GAB"
+      },
+      "geometry": {
+        "coordinates": [
+          9.442554,
+          0.412114
+        ],
+        "type": "Point"
+      },
+      "id": "785ee0c5ad13ada8a7fdbed15cc194a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Quinto",
+        "state": "ECU"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.49885,
+          -0.212982
+        ],
+        "type": "Point"
+      },
+      "id": "791189ce75d6e29eea60f95f02cabc9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Copenhagen",
+        "state": "DNK"
+      },
+      "geometry": {
+        "coordinates": [
+          12.580556,
+          55.676283
+        ],
+        "type": "Point"
+      },
+      "id": "7da3f752cbb71652968eb1c6d465e695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Freetown",
+        "state": "SLE"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.233959,
+          8.486782
+        ],
+        "type": "Point"
+      },
+      "id": "7f7c0fb30433eb89ba95847d8a5fdf32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vaduz",
+        "state": "LIE"
+      },
+      "geometry": {
+        "coordinates": [
+          9.522702,
+          47.137733
+        ],
+        "type": "Point"
+      },
+      "id": "7ffc9ed65f70d196400700d84cc7866c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Havana",
+        "state": "CUB"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.359713,
+          23.135372
+        ],
+        "type": "Point"
+      },
+      "id": "800b09d2bbe779755c7726d0f81d23a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Belgrade",
+        "state": "SRB"
+      },
+      "geometry": {
+        "coordinates": [
+          20.465915,
+          44.81169
+        ],
+        "type": "Point"
+      },
+      "id": "80270e52f3c701b3d1f56ffa22fcc829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lima",
+        "state": "PER"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02531,
+          -12.04796
+        ],
+        "type": "Point"
+      },
+      "id": "804769689af75c33141c7f403ef0fffc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Stockholm",
+        "state": "SWE"
+      },
+      "geometry": {
+        "coordinates": [
+          18.068382,
+          59.327692
+        ],
+        "type": "Point"
+      },
+      "id": "845e02a3548763ee6ab74670ce42e748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Rabat",
+        "state": "MAR"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.836626,
+          34.017582
+        ],
+        "type": "Point"
+      },
+      "id": "862008dea0834ec160a6cce8b4349d3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Georgetown",
+        "state": "GUY"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.166636,
+          6.808649
+        ],
+        "type": "Point"
+      },
+      "id": "87fad9729d88244bbf82ecec8592172e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Castries",
+        "state": "LCA"
+      },
+      "geometry": {
+        "coordinates": [
+          -60.989973,
+          14.010326
+        ],
+        "type": "Point"
+      },
+      "id": "8866b6863241f1b8f01f34f651e3a2fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Panama City",
+        "state": "PAN"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.542268,
+          8.962171
+        ],
+        "type": "Point"
+      },
+      "id": "8a6310a3a010d892b31c637cb24573f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tripoli",
+        "state": "LBY"
+      },
+      "geometry": {
+        "coordinates": [
+          13.152885,
+          32.88394
+        ],
+        "type": "Point"
+      },
+      "id": "8a69cc2a2849fd20a58c4f8bd24a0846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Maseru",
+        "state": "LSO"
+      },
+      "geometry": {
+        "coordinates": [
+          27.49258,
+          -29.322805
+        ],
+        "type": "Point"
+      },
+      "id": "8ae9fde073d28cfc7c7bd8b0f9453ef2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Skopje",
+        "state": "MKD"
+      },
+      "geometry": {
+        "coordinates": [
+          21.432472,
+          41.992706
+        ],
+        "type": "Point"
+      },
+      "id": "8af67483b09d0312aeb6c0c92ffffb99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ankara",
+        "state": "TUR"
+      },
+      "geometry": {
+        "coordinates": [
+          32.85099,
+          39.911562
+        ],
+        "type": "Point"
+      },
+      "id": "8b883ef647a1ccc3c817eeb3ef6a5304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "SDS",
+        "city": "Juba"
+      },
+      "geometry": {
+        "coordinates": [
+          31.58436,
+          4.852916
+        ],
+        "type": "Point"
+      },
+      "id": "8d0515b99165c56a91de32717104cc47"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Jakarta",
+        "state": "IDN"
+      },
+      "geometry": {
+        "coordinates": [
+          106.800025,
+          -6.210319
+        ],
+        "type": "Point"
+      },
+      "id": "90b6f943381fe20b03263883c641cd9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bamako",
+        "state": "MLI"
+      },
+      "geometry": {
+        "coordinates": [
+          -7.99374,
+          12.648813
+        ],
+        "type": "Point"
+      },
+      "id": "90f96b7604e6ce9bfd8940bf643e3be7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Teheran",
+        "state": "IRN"
+      },
+      "geometry": {
+        "coordinates": [
+          51.434289,
+          35.691854
+        ],
+        "type": "Point"
+      },
+      "id": "9158d2584beda4fd952de4149f3feeed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Paramaribo",
+        "state": "SUR"
+      },
+      "geometry": {
+        "coordinates": [
+          -55.150673,
+          5.825323
+        ],
+        "type": "Point"
+      },
+      "id": "9344473018b654758fa6f11dd9b8e30b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bissau",
+        "state": "GNB"
+      },
+      "geometry": {
+        "coordinates": [
+          -15.590754,
+          11.858469
+        ],
+        "type": "Point"
+      },
+      "id": "93c4b3174c527648d3973a35771a04a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tifariti",
+        "state": "SAH"
+      },
+      "geometry": {
+        "coordinates": [
+          -10.559147,
+          26.158718
+        ],
+        "type": "Point"
+      },
+      "id": "944876d6405c47e526f0e6c0c01ccac7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "Djibouti",
+        "city": "Djibouti"
+      },
+      "geometry": {
+        "coordinates": [
+          43.148596,
+          11.595864
+        ],
+        "type": "Point"
+      },
+      "id": "9530f2ff250336ae985757a7c1242738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Phnom Pehn",
+        "state": "KHM"
+      },
+      "geometry": {
+        "coordinates": [
+          104.936074,
+          11.554361
+        ],
+        "type": "Point"
+      },
+      "id": "96ede26f696700cdf312b1288007d397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Buenos Aires",
+        "state": "ARG"
+      },
+      "geometry": {
+        "coordinates": [
+          -58.392734,
+          -34.609772
+        ],
+        "type": "Point"
+      },
+      "id": "97c30c473c31a01deadde963a538d4ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Asunción",
+        "state": "PRY"
+      },
+      "geometry": {
+        "coordinates": [
+          -57.635664,
+          -25.278966
+        ],
+        "type": "Point"
+      },
+      "id": "97dee7f768c526c5356087108af3ebdc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kampala",
+        "state": "UGA"
+      },
+      "geometry": {
+        "coordinates": [
+          32.587871,
+          0.315906
+        ],
+        "type": "Point"
+      },
+      "id": "9806ecd8661977f6b8e92cd3d5a36d85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Malé",
+        "state": "MDV"
+      },
+      "geometry": {
+        "coordinates": [
+          73.513526,
+          4.177328
+        ],
+        "type": "Point"
+      },
+      "id": "9842a697193ef06bde76cd2bafdb8cad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ramallah",
+        "state": "PSX"
+      },
+      "geometry": {
+        "coordinates": [
+          35.203357,
+          31.898073
+        ],
+        "type": "Point"
+      },
+      "id": "98803138efb9d9e9fb2ede015f94f7bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "N'Djamena",
+        "state": "TCD"
+      },
+      "geometry": {
+        "coordinates": [
+          15.148495,
+          12.068785
+        ],
+        "type": "Point"
+      },
+      "id": "9b19ccec629607dd2645f4d2aa48e5b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Santo Domingo",
+        "state": "DOM"
+      },
+      "geometry": {
+        "coordinates": [
+          -69.925361,
+          18.449168
+        ],
+        "type": "Point"
+      },
+      "id": "9ce7a6f9b5cf2e07c6025a6f171c1c80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Minsk",
+        "state": "BLR"
+      },
+      "geometry": {
+        "coordinates": [
+          27.544899,
+          53.896195
+        ],
+        "type": "Point"
+      },
+      "id": "9dde6752748e8c6c4e109b4f026a4164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Port-au-Prince",
+        "state": "HTI"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.338849,
+          18.543178
+        ],
+        "type": "Point"
+      },
+      "id": "9e72a1795d581d2951af3a5756c66782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bishkek",
+        "state": "KGZ"
+      },
+      "geometry": {
+        "coordinates": [
+          74.600122,
+          42.877319
+        ],
+        "type": "Point"
+      },
+      "id": "9ea2f57d89066f077c2c65d81ce433e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bandar Seri Begawan",
+        "state": "BRN"
+      },
+      "geometry": {
+        "coordinates": [
+          114.948711,
+          4.913463
+        ],
+        "type": "Point"
+      },
+      "id": "9ea529942d699affbc160af65af2e481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tirana",
+        "state": "ALB"
+      },
+      "geometry": {
+        "coordinates": [
+          19.823095,
+          41.325976
+        ],
+        "type": "Point"
+      },
+      "id": "9ea5b062f44892b342dfbaa686beef5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Niamey",
+        "state": "NER"
+      },
+      "geometry": {
+        "coordinates": [
+          2.114486,
+          13.511326
+        ],
+        "type": "Point"
+      },
+      "id": "9edce3c5556cc27a7f1f5096dee220da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ottawa",
+        "state": "CAN"
+      },
+      "geometry": {
+        "coordinates": [
+          -75.699926,
+          45.425117
+        ],
+        "type": "Point"
+      },
+      "id": "9f4b818fd45e4be7ff4e1fd32d03f92d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vatican City",
+        "state": "VAT"
+      },
+      "geometry": {
+        "coordinates": [
+          12.453335,
+          41.902363
+        ],
+        "type": "Point"
+      },
+      "id": "9f99c75341122b542b59a660cb79860b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "COM",
+        "city": "Moroni"
+      },
+      "geometry": {
+        "coordinates": [
+          43.24639,
+          -11.718245
+        ],
+        "type": "Point"
+      },
+      "id": "a2aabe0b387739310176b1bf5827723e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tokyo",
+        "state": "JPN"
+      },
+      "geometry": {
+        "coordinates": [
+          139.744814,
+          35.675961
+        ],
+        "type": "Point"
+      },
+      "id": "a4eb3fdc6a8fc6aa056d4313c1071ce1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Washington D.C. ",
+        "state": "USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.009007,
+          38.88983
+        ],
+        "type": "Point"
+      },
+      "id": "a6020038723a112938fca1457acb55b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Canberra",
+        "state": "AUS"
+      },
+      "geometry": {
+        "coordinates": [
+          149.124424,
+          -35.308089
+        ],
+        "type": "Point"
+      },
+      "id": "a7c6335e2e9a7407203dbbec0a5a2acb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Maputo",
+        "state": "MOZ"
+      },
+      "geometry": {
+        "coordinates": [
+          32.561568,
+          -25.959054
+        ],
+        "type": "Point"
+      },
+      "id": "ab965975e25387ad83cb2a7451eebacf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Doha",
+        "state": "QAT"
+      },
+      "geometry": {
+        "coordinates": [
+          51.543583,
+          25.290916
+        ],
+        "type": "Point"
+      },
+      "id": "ac1a3340cddee52e5fa6899a70f43b4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Amman",
+        "state": "JOR"
+      },
+      "geometry": {
+        "coordinates": [
+          35.911995,
+          31.962372
+        ],
+        "type": "Point"
+      },
+      "id": "ac3737766db1a9a7bd31c233d574f1d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Managua",
+        "state": "NIC"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.273249,
+          12.150515
+        ],
+        "type": "Point"
+      },
+      "id": "ac3f283571de946c1c9dce199eaed6c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Yaren",
+        "state": "NRU"
+      },
+      "geometry": {
+        "coordinates": [
+          166.916908,
+          -0.547021
+        ],
+        "type": "Point"
+      },
+      "id": "ada5e63f16c4b35f7bbb6573979b5546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Praia",
+        "state": "CPV"
+      },
+      "geometry": {
+        "coordinates": [
+          -23.515512,
+          14.906253
+        ],
+        "type": "Point"
+      },
+      "id": "ae588389f123a490f9e95144cfb078ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Valletta",
+        "state": "MLT"
+      },
+      "geometry": {
+        "coordinates": [
+          14.509782,
+          35.896226
+        ],
+        "type": "Point"
+      },
+      "id": "ae8e0077b7b587a6bd3c66126c803883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Seoul",
+        "state": "KOR"
+      },
+      "geometry": {
+        "coordinates": [
+          126.914089,
+          37.532062
+        ],
+        "type": "Point"
+      },
+      "id": "af016f4871ef806813c7c3733e9890de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Helsinki",
+        "state": "FIN"
+      },
+      "geometry": {
+        "coordinates": [
+          24.932892,
+          60.172569
+        ],
+        "type": "Point"
+      },
+      "id": "b0c1fd271eeae339d7a3a92a970b3dc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Jerusalem",
+        "state": "ISR"
+      },
+      "geometry": {
+        "coordinates": [
+          35.205439,
+          31.776715
+        ],
+        "type": "Point"
+      },
+      "id": "b6cef53fb3fb5f11acaa88626509623e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tbilisi",
+        "state": "GEO"
+      },
+      "geometry": {
+        "coordinates": [
+          44.79832,
+          41.696842
+        ],
+        "type": "Point"
+      },
+      "id": "b703f5f95c0fbc252b1db43cdc824525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Katmandu",
+        "state": "NPL"
+      },
+      "geometry": {
+        "coordinates": [
+          85.337433,
+          27.689783
+        ],
+        "type": "Point"
+      },
+      "id": "b7bed763daad0779df0c007b57442772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vientiane",
+        "state": "LAO"
+      },
+      "geometry": {
+        "coordinates": [
+          102.63408,
+          17.978577
+        ],
+        "type": "Point"
+      },
+      "id": "b83ad36adc8f0a9e789cf38a97b2cd5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Gaborone",
+        "state": "BWA"
+      },
+      "geometry": {
+        "coordinates": [
+          25.910639,
+          -24.658049
+        ],
+        "type": "Point"
+      },
+      "id": "b85ba4da273f849d2335d69d40c61dc6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mexico City",
+        "state": "MEX"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.11794,
+          19.430283
+        ],
+        "type": "Point"
+      },
+      "id": "ba647c7972bf8a3ceaeaea90bb008aa3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Algier",
+        "state": "DZA"
+      },
+      "geometry": {
+        "coordinates": [
+          3.059902,
+          36.776288
+        ],
+        "type": "Point"
+      },
+      "id": "bbe7ddbb0d1f0188b2c02806f2d97eaf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "ETH",
+        "city": "Addis Ababa"
+      },
+      "geometry": {
+        "coordinates": [
+          38.764652,
+          9.030262
+        ],
+        "type": "Point"
+      },
+      "id": "bc6571ef9748e4aadccbe6ba089b5194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Brasilia",
+        "state": "BRA"
+      },
+      "geometry": {
+        "coordinates": [
+          -47.864037,
+          -15.799558
+        ],
+        "type": "Point"
+      },
+      "id": "bca4095fd9110b9985bc34b3e0af174c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pyongyang",
+        "state": "PRK"
+      },
+      "geometry": {
+        "coordinates": [
+          125.751013,
+          39.018418
+        ],
+        "type": "Point"
+      },
+      "id": "be3e824cd69ff2737b52c97e9d8d299c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "ERI",
+        "city": "Asmara"
+      },
+      "geometry": {
+        "coordinates": [
+          38.931016,
+          15.335878
+        ],
+        "type": "Point"
+      },
+      "id": "beb9968d2cd35345cb5bac9ba98dd0a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hanoi",
+        "state": "VNM"
+      },
+      "geometry": {
+        "coordinates": [
+          105.83747,
+          21.037257
+        ],
+        "type": "Point"
+      },
+      "id": "bfea5282fde5d1d07f1dce577e1b9e5a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kingston",
+        "state": "JAM"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.790582,
+          17.974134
+        ],
+        "type": "Point"
+      },
+      "id": "c42f3f8f0fd925798dc89715acbea6b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Port Louis",
+        "state": "MUS"
+      },
+      "geometry": {
+        "coordinates": [
+          57.503263,
+          -20.162982
+        ],
+        "type": "Point"
+      },
+      "id": "c430917fbafa8e571cc6e8f55dac92de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "London",
+        "state": "GBR"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.124745,
+          51.499373
+        ],
+        "type": "Point"
+      },
+      "id": "c546c6a2ae133496309b30648f1493a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chisinau",
+        "state": "MDA"
+      },
+      "geometry": {
+        "coordinates": [
+          28.831467,
+          47.023949
+        ],
+        "type": "Point"
+      },
+      "id": "c5d79ac7e569bca6834cca057eb40d21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Brazzaville",
+        "state": "COG"
+      },
+      "geometry": {
+        "coordinates": [
+          15.262554,
+          -4.28117
+        ],
+        "type": "Point"
+      },
+      "id": "c70f8b2466dc2cf92c328d39d7617f74"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Conakry",
+        "state": "GIN"
+      },
+      "geometry": {
+        "coordinates": [
+          -13.693082,
+          9.519957
+        ],
+        "type": "Point"
+      },
+      "id": "c79e577416d70bef40df9414bfb3302f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "GNQ",
+        "city": "Malabo"
+      },
+      "geometry": {
+        "coordinates": [
+          8.783508,
+          3.756788
+        ],
+        "type": "Point"
+      },
+      "id": "c987d21be03522de0fd9e68ff6063eb2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Reykjavík",
+        "state": "ISL"
+      },
+      "geometry": {
+        "coordinates": [
+          -21.940178,
+          64.146789
+        ],
+        "type": "Point"
+      },
+      "id": "cbf84b69e772a10c2c4033539526d5f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Windhoek",
+        "state": "NAM"
+      },
+      "geometry": {
+        "coordinates": [
+          17.089276,
+          -22.566589
+        ],
+        "type": "Point"
+      },
+      "id": "cd96bcffbf906a49bf004b48c8e05e20"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Podgorica",
+        "state": "MNE"
+      },
+      "geometry": {
+        "coordinates": [
+          19.260099,
+          42.440493
+        ],
+        "type": "Point"
+      },
+      "id": "cdc057c579087103ad391c1545498c66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "San Marino City",
+        "state": "SMR"
+      },
+      "geometry": {
+        "coordinates": [
+          12.446264,
+          43.936773
+        ],
+        "type": "Point"
+      },
+      "id": "cecfdca44f719886440c6a77e67b713e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Accra",
+        "state": "GHA"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.190391,
+          5.557672
+        ],
+        "type": "Point"
+      },
+      "id": "cf37510ddd05297fbcef4f88486ed93f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Islamabad",
+        "state": "PAK"
+      },
+      "geometry": {
+        "coordinates": [
+          73.096967,
+          33.730191
+        ],
+        "type": "Point"
+      },
+      "id": "cfc52ad587f7b8f080f336e7876ddb2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kigali",
+        "state": "RWA"
+      },
+      "geometry": {
+        "coordinates": [
+          30.099003,
+          -1.952268
+        ],
+        "type": "Point"
+      },
+      "id": "d174f1fb581502a8ed3b37c3932d2a15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Basseterre",
+        "state": "KNA"
+      },
+      "geometry": {
+        "coordinates": [
+          -62.725129,
+          17.295676
+        ],
+        "type": "Point"
+      },
+      "id": "d28493b0899be38af47b39efce9c1302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Luanda",
+        "state": "AGO"
+      },
+      "geometry": {
+        "coordinates": [
+          13.22813,
+          -8.819291
+        ],
+        "type": "Point"
+      },
+      "id": "d2d7b3fe87f52f3542aeadf838905859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "San Salvador",
+        "state": "SLV"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.199644,
+          13.706171
+        ],
+        "type": "Point"
+      },
+      "id": "d433407b1446790d579aa74a09deecf5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bratislava",
+        "state": "SVK"
+      },
+      "geometry": {
+        "coordinates": [
+          17.09715,
+          48.141872
+        ],
+        "type": "Point"
+      },
+      "id": "d560bef73cd3a4bc020c018fe3704fb7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Warsaw",
+        "state": "POL"
+      },
+      "geometry": {
+        "coordinates": [
+          21.028037,
+          52.225316
+        ],
+        "type": "Point"
+      },
+      "id": "d7904a1c0c0e6995c57bea61c6a8a3dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ouagadougou",
+        "state": "BFA"
+      },
+      "geometry": {
+        "coordinates": [
+          -1.514399,
+          12.371974
+        ],
+        "type": "Point"
+      },
+      "id": "d842de1281957fb034387f51392b743d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Harare",
+        "state": "ZWE"
+      },
+      "geometry": {
+        "coordinates": [
+          30.942615,
+          -17.689064
+        ],
+        "type": "Point"
+      },
+      "id": "d93eed0fed110adf0a854bbe5862084f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lilongwe",
+        "state": "MWI"
+      },
+      "geometry": {
+        "coordinates": [
+          33.787921,
+          -13.952226
+        ],
+        "type": "Point"
+      },
+      "id": "da2a44652bece576d4c47202a9b452df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Yaoundé",
+        "state": "CMR"
+      },
+      "geometry": {
+        "coordinates": [
+          11.509775,
+          3.857092
+        ],
+        "type": "Point"
+      },
+      "id": "dcc4d48ded2170c847b51e47badbda98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sana'a",
+        "state": "YEM"
+      },
+      "geometry": {
+        "coordinates": [
+          44.214209,
+          15.355343
+        ],
+        "type": "Point"
+      },
+      "id": "dfb536b18c30e09a7aab23b094e0b19d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Damascus",
+        "state": "SYR"
+      },
+      "geometry": {
+        "coordinates": [
+          36.29314,
+          33.51818
+        ],
+        "type": "Point"
+      },
+      "id": "e13e235ee906e94f15fac7decf0e6b4a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Riyadh",
+        "state": "SAU"
+      },
+      "geometry": {
+        "coordinates": [
+          46.640772,
+          24.665305
+        ],
+        "type": "Point"
+      },
+      "id": "e1e0f9347325f08690fb2248ba406732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "San Jose",
+        "state": "CRI"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.072206,
+          9.93386
+        ],
+        "type": "Point"
+      },
+      "id": "e23360845b3e063cef1dbdda7b7d8ae6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "RUS",
+        "city": "Moscow"
+      },
+      "geometry": {
+        "coordinates": [
+          37.616868,
+          55.751184
+        ],
+        "type": "Point"
+      },
+      "id": "e4e1d302ffd9994ee1a76981b3714356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "The Hague",
+        "state": "NLD"
+      },
+      "geometry": {
+        "coordinates": [
+          4.313564,
+          52.080106
+        ],
+        "type": "Point"
+      },
+      "id": "e55cffdbf5a999885ff0a7bfc865e76b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Banjul",
+        "state": "GMB"
+      },
+      "geometry": {
+        "coordinates": [
+          -16.585593,
+          13.460997
+        ],
+        "type": "Point"
+      },
+      "id": "e5784c189d826d04496656d7982bfb4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Andorra la Vella",
+        "state": "AND"
+      },
+      "geometry": {
+        "coordinates": [
+          1.521074,
+          42.506612
+        ],
+        "type": "Point"
+      },
+      "id": "e78701c63ec7c3142830d493fcd3d672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Port of Spain",
+        "state": "TTO"
+      },
+      "geometry": {
+        "coordinates": [
+          -61.511726,
+          10.653192
+        ],
+        "type": "Point"
+      },
+      "id": "e9770a2ceca9660b11b1596d77e6e542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lobamba",
+        "state": "SWZ"
+      },
+      "geometry": {
+        "coordinates": [
+          31.206453,
+          -26.446468
+        ],
+        "type": "Point"
+      },
+      "id": "e99af04a5ea4aa7c7bcbf6c15dc73712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Guatemala City",
+        "state": "GTM"
+      },
+      "geometry": {
+        "coordinates": [
+          -90.5113,
+          14.639229
+        ],
+        "type": "Point"
+      },
+      "id": "ea0a9dec31fb3f4e8a5259db80143206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kuwait City",
+        "state": "KWT"
+      },
+      "geometry": {
+        "coordinates": [
+          47.963869,
+          29.369948
+        ],
+        "type": "Point"
+      },
+      "id": "ea829bef2f98dbf7a9b263b3bf03077a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Monaco",
+        "state": "MCO"
+      },
+      "geometry": {
+        "coordinates": [
+          7.425801,
+          43.731487
+        ],
+        "type": "Point"
+      },
+      "id": "eb33e22edfd246b3d447a86fb1497a4e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tunis",
+        "state": "TUN"
+      },
+      "geometry": {
+        "coordinates": [
+          10.135587,
+          36.808549
+        ],
+        "type": "Point"
+      },
+      "id": "ee6bc5bd5b062fb474bfdab348698298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Tashkent",
+        "state": "UZB"
+      },
+      "geometry": {
+        "coordinates": [
+          69.238732,
+          41.305592
+        ],
+        "type": "Point"
+      },
+      "id": "ee73e49993c7cdb7ad9fa43860837623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bujumbura",
+        "state": "BDI"
+      },
+      "geometry": {
+        "coordinates": [
+          29.373009,
+          -3.359822
+        ],
+        "type": "Point"
+      },
+      "id": "eec4ea74e82aba334f8014fe46f19def"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Rome",
+        "state": "ITA"
+      },
+      "geometry": {
+        "coordinates": [
+          12.478702,
+          41.901651
+        ],
+        "type": "Point"
+      },
+      "id": "ef8ad62818a6a4d0531107eb3961fbc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Porto-Novo",
+        "state": "BEN"
+      },
+      "geometry": {
+        "coordinates": [
+          2.616366,
+          6.474841
+        ],
+        "type": "Point"
+      },
+      "id": "f0809cc7fd705dd9d88adeb36befbd1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cape Town",
+        "state": "ZAF"
+      },
+      "geometry": {
+        "coordinates": [
+          18.418839,
+          -33.926532
+        ],
+        "type": "Point"
+      },
+      "id": "f0ac5d1044133de34f1087fbd79973b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Abu Dhabi",
+        "state": "ARE"
+      },
+      "geometry": {
+        "coordinates": [
+          54.331582,
+          24.463405
+        ],
+        "type": "Point"
+      },
+      "id": "f0fb048f95570edeedb918e4a18dfc40"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Antananarivo",
+        "state": "MDG"
+      },
+      "geometry": {
+        "coordinates": [
+          47.527296,
+          -18.93463
+        ],
+        "type": "Point"
+      },
+      "id": "f19ad0e78711739b6bd2a5155fb578a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sri Jayawardenepura Kotte",
+        "state": "LKA"
+      },
+      "geometry": {
+        "coordinates": [
+          79.918632,
+          6.886746
+        ],
+        "type": "Point"
+      },
+      "id": "f266d4102e692be2e1dd3fa7df9f459f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ngerulmud",
+        "state": "PLW"
+      },
+      "geometry": {
+        "coordinates": [
+          134.624272,
+          7.500231
+        ],
+        "type": "Point"
+      },
+      "id": "f49154151573ebdb1e2e81235f23c938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "state": "CAF",
+        "city": "Bangui"
+      },
+      "geometry": {
+        "coordinates": [
+          18.562888,
+          4.39331
+        ],
+        "type": "Point"
+      },
+      "id": "f765289c277791a1baad2206ceca037a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Luxembourg City",
+        "state": "LUX"
+      },
+      "geometry": {
+        "coordinates": [
+          6.133085,
+          49.610657
+        ],
+        "type": "Point"
+      },
+      "id": "f90f53f0692c0d68344a95876e1ee596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nuku'alofa",
+        "state": "TON"
+      },
+      "geometry": {
+        "coordinates": [
+          -175.218315,
+          -21.155855
+        ],
+        "type": "Point"
+      },
+      "id": "fa5747de7b157e7e129e48be5f7eadf3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Wellington",
+        "state": "NZL"
+      },
+      "geometry": {
+        "coordinates": [
+          174.776356,
+          -41.277752
+        ],
+        "type": "Point"
+      },
+      "id": "fc99cc8f8401ae881a086cf4cfe92f84"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bangkok",
+        "state": "THA"
+      },
+      "geometry": {
+        "coordinates": [
+          100.517345,
+          13.796013
+        ],
+        "type": "Point"
+      },
+      "id": "fdcfe65f005835b114accb1b0eb5e59c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Beijing",
+        "state": "CHN"
+      },
+      "geometry": {
+        "coordinates": [
+          116.395334,
+          39.903854
+        ],
+        "type": "Point"
+      },
+      "id": "fe9b61de1f762c3ba78974db1fd3fe4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Abuja",
+        "state": "NGA"
+      },
+      "geometry": {
+        "coordinates": [
+          7.511173,
+          9.068136
+        ],
+        "type": "Point"
+      },
+      "id": "feebe1928b1ccca83ed87763e4b78caa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Baghdad",
+        "state": "IRQ"
+      },
+      "geometry": {
+        "coordinates": [
+          44.390639,
+          33.313703
+        ],
+        "type": "Point"
+      },
+      "id": "ff803b95f999f6cc4242291b738a047d"
+    }
+  ],
+  "type": "FeatureCollection"
+}
